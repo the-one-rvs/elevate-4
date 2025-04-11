@@ -4,7 +4,6 @@
 
 
 **SCREENSHOTS**
-   ![SS](images/Screenshot%20from%202025-04-10%2017-17-22.png)
    ![SS](images/Screenshot%20from%202025-04-11%2012-15-55.png)
    ![SS](images/Screenshot%20from%202025-04-11%2012-16-22.png)
    ![SS](images/Screenshot%20from%202025-04-11%2012-21-09.png)
